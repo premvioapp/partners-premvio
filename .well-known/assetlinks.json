@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "uk.topcasinosweltwiet.twa",
+        "sha256_cert_fingerprints": ["E7:0F:5C:30:47:2C:67:86:4A:30:5E:FF:86:5E:AB:19:7D:28:49:64:D8:BC:E5:98:42:18:59:46:5C:10:37:AA"]
+      }
+    }]
